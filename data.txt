@@ -1,0 +1,17 @@
+AGHOE;Backhoe / Tractor Work;Default Title;2000.00;Title
+CCF;ChequeChangingFee;Default Title;200.00;Title
+DCCT;Debit/CreditCard (LD2.5%) (LC5%) and(FD/CC/C...;Default Title;500.00;Title
+DEL;Delivery;Default Title;2000.00;Title
+638110401341;KITCHEN;Default Title;2000.00;Title
+ADBG;Bondcrete ;(Gallon);3230.00
+ADBQ;Bondcrete ;(Quart);1750.00
+ADC;Cement & ($30PERLBRETAIL);Default Title;1580.00;Title
+ADCAL;Latex;Default Title;600.00;Title
+ADCAS;Silicone Sealant (100%);Default Title;1370.00;Title
+ADCAS+L;Silicone + Latex;Default Title;900.00;Title
+ADCG;Crazy Glue;Default Title;250.00;Title
+ADCTTB;Silicone Tube;(Black);720.00
+ADCTTC;Silicone Tube;(Clear);750.00
+ADCTTG;Silicone TUBE;(Grey);770.00
+ADCTTR;Silicone Tube;(Red);830.00
+ADCTTW;Silicone TUBE;(White);730.00
